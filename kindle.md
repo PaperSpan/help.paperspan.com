@@ -1,18 +1,18 @@
 ---
 title: Kindle
-nav_order: 8
+nav_order: 9
 ---
 
-Send your saved articles directly to your Kindle device for distraction-free reading.
+Send articles to your Kindle device for distraction-free reading.
 
 ## 🔧 Setup
 
-- Go to Settings → Kindle in the app or website.
-- Add your Kindle email (e.g., `yourname@kindle.com`).
-- Add `kindle@paperspan.com` to your approved sender list in your Amazon settings.
+1. Go to Settings → Kindle.
+2. Add your Kindle email (e.g., `yourname@kindle.com`).
+3. In your Amazon account, add `kindle@paperspan.com` to your Approved Personal Document E-mail List.
 
 ## 📤 Sending Articles
 
-- Use the **Send to Kindle** option in the article menu.
-- Articles will appear on your Kindle shortly.
-- You can choose to send manually or enable automatic sending from settings.
+- Tap “Send to Kindle” from the article menu.
+- You can enable automatic sending for new articles.
+- Works on Android, iOS, and Web.
