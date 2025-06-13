@@ -1,4 +1,5 @@
 ---
+---
 # 🟩 FAQs
 
 ## Is PaperSpan free?
@@ -16,4 +17,4 @@ Yes. You can send articles directly to your Kindle from the mobile app or web.
 ## Can I use it on multiple devices?
 
 Absolutely! All apps sync through your account in real-time.
----
+
