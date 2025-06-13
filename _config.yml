@@ -1,5 +1,6 @@
 title: "PaperSpan Help"
 description: "Help Center for PaperSpan"
+remote_theme: pmarsceill/just-the-docs
 theme: just-the-docs
 
 # (optional) Enable search
