@@ -1,18 +1,13 @@
 title: "PaperSpan Help"
 description: "Help Center for PaperSpan"
 remote_theme: pmarsceill/just-the-docs
-theme: just-the-docs
 
-# (optional) Enable search
+# Enable search
 search_enabled: true
 
-# (optional) Your site URL (if using custom domain)
-url: "https://<your-github-username>.github.io/paperspan-help"
+# Site URL
+url: "https://paperspan.github.io/help.paperspan.com"
 
-# (optional) Custom navigation (we'll expand this later)
+# Navigation (only include files that exist!)
 nav:
   - Home: index.md
-  - FAQs: faqs.md
-  - Apps:
-      - Android: apps/android.md
-      - iOS: apps/ios.md
