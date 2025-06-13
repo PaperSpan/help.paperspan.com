@@ -1,10 +1,18 @@
-# 📚 Kindle Integration
+---
+title: Kindle
+nav_order: 8
+---
 
-## Setup
+Send your saved articles directly to your Kindle device for distraction-free reading.
 
-1. Add your Kindle email in PaperSpan settings.
-2. Whitelist `no-reply@paperspan.com` in your Amazon account.
+## 🔧 Setup
 
-## Sending Articles
+- Go to Settings → Kindle in the app or website.
+- Add your Kindle email (e.g., `yourname@kindle.com`).
+- Add `kindle@paperspan.com` to your approved sender list in your Amazon settings.
 
-Tap “Send to Kindle” on any article. It will appear in your Kindle Library as a document.
+## 📤 Sending Articles
+
+- Use the **Send to Kindle** option in the article menu.
+- Articles will appear on your Kindle shortly.
+- You can choose to send manually or enable automatic sending from settings.
