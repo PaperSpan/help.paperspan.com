@@ -1,3 +1,9 @@
+---
+title: From Android
+parent: Saving Articles
+nav_order: 1
+---
+
 # 📥 Saving Articles on Android
 
 1. Open an article in your browser.
