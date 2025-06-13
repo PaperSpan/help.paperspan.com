@@ -1,25 +1,24 @@
 ---
 title: Text to Speech
-nav_order: 6
+nav_order: 7
 ---
 
-PaperSpan lets you listen to your saved articles hands-free. Here's how Text to Speech works across different platforms.
+Listen to your saved articles hands-free using Text to Speech on mobile apps.
 
 ## 📱 Android
 
-- Use the speaker icon in the reader toolbar to start playback.
-- Playback continues even when the screen is off.
-- You can change the voice and speed from settings.
+- Tap the speaker icon inside the reader view to begin playback.
+- Background playback is supported.
+- Customize voice and speed from app settings.
 
 ## 🍏 iOS
 
-- Tap the "Listen" button inside an article.
-- The iOS app supports background playback.
-- Customize voice in iOS accessibility settings.
+- Tap “Listen” in the article toolbar to enable Text to Speech.
+- It continues playing even with the screen locked.
+- You can change voice via iOS accessibility settings.
 
 ## ▶️ Playlist
 
-- You can queue multiple articles to play one after another.
-- Available in Android and iOS.
-- Tap "Add to Playlist" from the reader view.
-
+- Queue multiple articles to listen in sequence.
+- Use "Add to Playlist" from the article menu.
+- Reorder or remove items in the playlist screen.
