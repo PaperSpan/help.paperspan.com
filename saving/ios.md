@@ -1,3 +1,9 @@
+---
+title: From iOS
+parent: Saving Articles
+nav_order: 2
+---
+
 # 📥 Saving Articles on iOS
 
 1. In Safari or any app, tap the Share icon.
