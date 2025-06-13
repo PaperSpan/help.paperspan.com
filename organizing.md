@@ -1,9 +1,17 @@
-# 🗂️ Organizing Articles
+---
+title: Organizing
+nav_order: 6
+---
 
-## 📁 Folders
+Organize your saved articles to find them easily and focus better on your reading goals.
 
-Create folders to group related articles. Folders help with topic-based organization.
+## 🗂️ Folders
 
-## 🧠 Auto-Categories
+- You can create folders to group articles by topics, goals, or interests.
+- Move articles into folders from the article list or while reading.
+- Folders are synced across all your devices.
 
-PaperSpan intelligently assigns categories (e.g., Health, Tech, Business) based on the content. You can filter articles using these labels easily.
+## ⚙️ Auto-Categories
+
+- PaperSpan auto-tags articles using machine learning.
+- You can tap on a category (e.g
