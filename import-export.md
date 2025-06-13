@@ -1,15 +1,21 @@
 ---
+title: Import & Export
+nav_order: 13
 ---
-# 🔄 Import & Export
 
-## From Instapaper
+Bring in your data from other read-it-later apps or export your PaperSpan data.
 
-Export your Instapaper file and upload it in PaperSpan settings → Import.
+## 🔄 Import from Instapaper
 
-## From Pocket
+- Export a `.csv` or `.html` file from Instapaper.
+- Go to Settings → Import and upload it.
 
-Export your Pocket file and import the HTML via PaperSpan.
+## 🔄 Import from Pocket
 
-## Exporting Your Data
+- Log in to Pocket and export your data.
+- Upload it via the PaperSpan web dashboard.
 
-From Account → Export, download all your articles, highlights, and notes in one zip file.
+## 📤 Export Your Data
+
+- Export your saved articles, notes, and highlights as a backup.
+- Go to Settings → Export from the website.
