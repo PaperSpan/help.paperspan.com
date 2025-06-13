@@ -1,9 +1,17 @@
-# 🌐 Offline Reading
+---
+title: Offline Reading
+nav_order: 12
+---
 
-## Auto Download
+Read your saved articles even without an internet connection.
 
-Articles are downloaded automatically when on Wi-Fi.
+## 🔁 Auto Download
 
-## Manual Download
+- By default, new articles are downloaded when you're on Wi-Fi.
+- Available on Android and iOS.
+- You can read them anytime, anywhere.
 
-Tap the download icon on an article to save it for offline reading.
+## 📥 Manual Download
+
+- Tap the download icon on any article to save it offline.
+- Useful if you're traveling or have spotty connections.
