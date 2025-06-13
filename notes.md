@@ -1,18 +1,18 @@
 ---
 title: Notes
-nav_order: 9
+nav_order: 10
 ---
 
-You can add personal notes to any saved article and view them later for reference.
+Add your own thoughts or ideas while reading, and revisit them later.
 
 ## 📱 Android
 
 - Tap the note icon while reading to add a note.
-- All notes are saved with the article and are searchable.
-- Access your full note list from the Notes tab.
+- Notes are listed under the Notes section in the app.
+- You can edit or delete them anytime.
 
 ## 🍏 iOS
 
-- Use the toolbar option “Add Note” while reading.
-- You can view, edit, or delete notes later.
-- Your notes stay in sync across all your devices.
+- Select “Add Note” from the reader toolbar.
+- Notes stay linked to the article.
+- They sync automatically with your account.
